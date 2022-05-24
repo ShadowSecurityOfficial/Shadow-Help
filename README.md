@@ -13,9 +13,9 @@ https://www.reddit.com/
 https://archive.org/
 https://www.gitkraken.com/
 ```
-# Requesting a distribution
+# Requesting a feature
 
-If you would like a distribution to be added to Shadow-Linux please request it by opening an issue on GitHub and explaining why it would be of value to Shadow-Linux. Please note we only add projects from distrowatch for security reasons.
+If you would like a feature to be added to Shadow-Help please request it by opening a issue on GitHub and explaning why it would be of use to the project.
 
 # DISCLAIMER
 
