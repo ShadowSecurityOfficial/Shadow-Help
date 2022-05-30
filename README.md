@@ -10,8 +10,6 @@ Shadow-Help is the official place to get help for everything involving ShadowSec
 
 ```
 https://www.reddit.com/
-https://www.httrack.com/
-https://archive.org/
 https://www.gitkraken.com/
 ```
 # Requesting a feature
