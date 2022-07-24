@@ -10,6 +10,8 @@ Shadow-Help is the official place to get help for everything involving ShadowSec
 
 ```
 https://www.reddit.com/
+https://www.reddit.com/r/botwatch/ (Find Bots to use in Reddit)
+https://code.visualstudio.com/
 https://www.gitkraken.com/
 ```
 # Requesting a feature
